@@ -2,3 +2,9 @@
   margin: 0px;
   padding: 0px;
 }
+p {
+  background-color: aqua;
+}
+#first-para {
+  background-color: blue;
+}
